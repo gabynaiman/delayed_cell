@@ -6,7 +6,7 @@
 [![Code Climate](https://codeclimate.com/github/gabynaiman/delayed_cell.png)](https://codeclimate.com/github/gabynaiman/delayed_cell)
 [![Dependency Status](https://gemnasium.com/gabynaiman/delayed_cell.png)](https://gemnasium.com/gabynaiman/delayed_cell)
 
-TODO: Write a gem description
+Emulates sequential execution in asynchronic cell
 
 ## Installation
 

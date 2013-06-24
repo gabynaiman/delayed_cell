@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = DelayedCell::VERSION
   spec.authors       = ["Gabriel Naiman"]
   spec.email         = ["gabynaiman@gmail.com"]
-  spec.description   = ''
-  spec.summary       = ''
+  spec.description   = 'Emulates sequential execution in asynchronic cell'
+  spec.summary       = 'Emulates sequential execution in asynchronic cell'
   spec.homepage      = 'https://github.com/gabynaiman/delayed_cell'
   spec.license       = "MIT"
 
